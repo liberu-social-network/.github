@@ -1,6 +1,33 @@
-### Description
+# Liberu Social Network - Laravel
 
-Welcome
+
+## Description
+
+The Social Network is an open-source project designed to provide a feature-rich and scalable platform for building social networking applications. Leveraging the power of Laravel 11, PHP 8.3, Filament 3.2, Livewire 3, and Jetstream 5, this project offers a comprehensive suite of features to connect users, foster engagement, and facilitate content sharing.
+
+## Features
+
+* User Authentication: Secure login and registration with Jetstream.
+* Profiles: Customizable user profiles with avatars and bio information.
+* Friends and Followers: Connect with friends and follow other users.
+* Posts and Comments: Create, like, and comment on posts.
+* Real-Time Notifications: Stay updated with real-time in-app notifications.
+* Private Messaging: Direct messaging between users.
+* Groups and Communities: Create and join groups to share interests.
+* Media Sharing: Upload and share photos and videos.
+* News Feed: Personalized feed showing posts from friends and followed users.
+* Search: Find users, posts, and groups easily with powerful search functionality.
+* Admin Panel: Manage users, posts, and settings with Filament.
+* Responsive Design: Optimized for both desktop and mobile devices.
+* Extensible: Modular architecture for easy feature extension and customization.
+
+## Technologies Used
+
+* Laravel 11: A robust PHP framework for building modern web applications.
+* PHP 8.3: The latest version of PHP, ensuring high performance and security.
+* Filament 3.2: An admin panel and form builder for rapid development.
+* Livewire 3: For building dynamic, real-time user interfaces.
+* Jetstream 5: A starter kit for authentication, profile management, and more.
 
 ## Our Projects
 
